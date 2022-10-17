@@ -25,22 +25,22 @@ Who is this program for?
 ### 1. Joining Stage
 
 - **Candidate**:  
-  - Join Women Who Code - London [#mock_interviews](https://join.slack.com/share/enQtNDA1NzE1MDAzMTcwMC00ZjQ5MDI2MzIyNzVjYzU3ZGQ1NTViMWY5MmQ2MzRhZTc1MzVhYzI0MzFjYmMxZjA0NTI0MmQxNTRhNjk2MmVm) slack channel
+  - Join Women Who Code - London [#mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) slack channel
 - **Interviewer**: 
-  - Join Women Who Code - London [#mock_interviews](https://join.slack.com/share/enQtNDA1NzE1MDAzMTcwMC00ZjQ5MDI2MzIyNzVjYzU3ZGQ1NTViMWY5MmQ2MzRhZTc1MzVhYzI0MzFjYmMxZjA0NTI0MmQxNTRhNjk2MmVm) slack channel
+  - Join Women Who Code - London [#mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) slack channel
 
 
 ### 2. Request Stage
 
 - **Candidate**: 
-  - To request a mock behavioral interview the candidate must send a message to the Women Who Code - London [#mock_interviews](https://join.slack.com/share/enQtNDA1NzE1MDAzMTcwMC00ZjQ5MDI2MzIyNzVjYzU3ZGQ1NTViMWY5MmQ2MzRhZTc1MzVhYzI0MzFjYmMxZjA0NTI0MmQxNTRhNjk2MmVm)  slack channel with below details:
+  - To request a mock behavioral interview the candidate must send a message to the Women Who Code - London [#mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)  slack channel with below details:
     1.  Current role
     2.  Future roles the candidate is looking to apply
     3.  Number of years of experience
     4.  Preferred timeline for conducting the interview. Eg: within next 2 weeks or within next month
     5.  LinkedIn URL (optional)
 - **Interviewer**: 
-  - Interviewer monitors the Women Who Code - London [#mock_interviews](https://join.slack.com/share/enQtNDA1NzE1MDAzMTcwMC00ZjQ5MDI2MzIyNzVjYzU3ZGQ1NTViMWY5MmQ2MzRhZTc1MzVhYzI0MzFjYmMxZjA0NTI0MmQxNTRhNjk2MmVm) slack channel for any incoming requests
+  - Interviewer monitors the Women Who Code - London [#mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) slack channel for any incoming requests
 
 
 ### 3. Request Acceptance Stage
