@@ -2,11 +2,16 @@
 
 - [Women Who Code London - Network](#women-who-code-london---network)
 - [Social](#social)
+- [Educational Programmes](#educational-programmes)
 - [Event Resources](#event-resources)
     - [Recent events:](#recent-events)
 - [About Women Who Code](#about-women-who-code)
 - [Code of Conduct](#code-of-conduct)
 - [Contributing](#contributing)
+- [Community](#community)
+  - [Programs](#programs)
+  - [Special Interest Groups](#special-interest-groups)
+  - [Other Volunteering Opportunities](#other-volunteering-opportunities)
 - [Credits](#credits)
 
 Women Who Code London - Network
@@ -24,10 +29,11 @@ The Women Who Code London is a community dedicated to inspiring women to excel i
 
 Join our community conversations!
 
-[Slack](https://app.slack.com/client/TGYGA50DQ/CGYS4RJE9)  
-[Twitter](https://twitter.com/WWCodeLondon)  
-[Facebook](https://www.facebook.com/wwcodelondon/)
-[LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
+- [Slack](https://join.slack.com/t/wwcodelondon/shared_invite/enQtNjgwNjc4Nzk1MTQxLTU0NjkwMDBkYWIwZjVmYzBjZDkzMzJiM2YyYzU1ODdhZDM3YzU2ZjMyNzE4NWZhNTE0YTRlZGU5NmI1NTkwMDY)  
+- [Twitter](https://twitter.com/WWCodeLondon)  
+- [Facebook](https://www.facebook.com/wwcodelondon/)
+- [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
+- [Meetup](https://www.meetup.com/women-who-code-london/)
 
 ## Educational Programmes
 <br>
@@ -100,9 +106,27 @@ To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTIN
 <table style= "background-color: transparent; border-color: transparent;">
 <tbody>
 
+<!-- Mock-Interviews: Algorithms & Data Structure -->
+<tr>
+<td style="1px solid black" align="left" width="20%"><img alt="Mock-Interviews: Algorithms & Data Structure" align="left" src="resources/mock-interviews/mock-code-interview/images/image.webp"/>&nbsp;</td>
+<td colspan="3"><b>Workshop Mock-Interviews: Algorithms & Data Structure</b>
+<br><br>
+Mock Interviews are very helpful in preparing for real interviews! Women Who Code London helps participants of the community to organise mock interviews and practise tackling interviews with each other!
+
+In this session, we will share the guidelines to go through coding interviews and solving Algorithms and Data Structures problems!
+
+<br>
+<em>- by Anna Araslanova </em>
+<br><br>
+
+- [Presentation](https://docs.google.com/presentation/d/1-FiCp8KOQCjUmwz05JADm8umNU3TljRTPyAzs70bGJI/)
+- [Video Recording](https://www.youtube.com/watch?v=A8AvkOSvUpM)
+- [Materials](resources/mock-interviews/mock-code-interview)
+- [Slack #mock_interview](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)
+
 <!-- Mock Behavioral Interview -->
 <tr>
-<td style="1px solid black" align="left" width="20%"><img alt="Mock Behavioral Interview" align="left" src="resources/mock-behavioral-interview/images/mock-behavioral-interview.png"/>&nbsp;</td>
+<td style="1px solid black" align="left" width="20%"><img alt="Mock Behavioral Interview" align="left" src="resources/mock-interviews/mock-behavioral-interview/images/mock-behavioral-interview.png"/>&nbsp;</td>
 <td colspan="3"><b>Mock Behavioral Interview</b>
 <br><br>
 Interviewing is a skill that improves with practice. You never want your first interview to be for the job you want the most. In order to ensure you have had some practice before it really counts, Women Who Code London is proud to launch the Mock Behavioral Interview Program for all our members to hone their interviewing skills.
@@ -118,7 +142,7 @@ Who is this program for?
 <em>- By Bhawana Haritwal </em>
 <br><br>
 
-  * [Slides & Materials](resources/mock-behavioral-interview/) 
+  * [Slides & Materials](resources/mock-interviews/mock-behavioral-interview)
   * [Video Recording](https://www.youtube.com/watch?v=nWHQ0g8sorI)    
   * [Slack #mock_interview](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)
 
@@ -136,9 +160,10 @@ How can you measure or define someone's personality? One way is to figure out wh
 - Why do extroverts often have it easier?
 - How can the particular skills of introverts and extroverts be of use to achieve excellence?
 
-<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
-<em>- By Sumeyya Javaid and Rajani Rao</em></td>
-</tr>
+<em>- By Sumeyya Javaid and Rajani Rao</em>
+* [Blog](https://www.womenwhocode.com/blog/quiet-book-club-wwcode-london)
+* [Slack #bookclub](https://wwcodelondon.slack.com/archives/C01RX3S1Z4Z)
+</td>
 
 <!-- Volunteering Summit -->
 <tr>
@@ -147,10 +172,11 @@ How can you measure or define someone's personality? One way is to figure out wh
   <br><br>
 We are opening positions to help & grow with Women Who Code!
 
-We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you!
-
-<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
-<em>- By Irina Kamalova</em></td>
+We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you! <br><br>
+<em>- By Irina Kamalova</em>
+* [Blog](https://www.womenwhocode.com/blog/volunteer-for-women-who-code-london)
+* [Slack #welcome_volunteers](https://wwcodelondon.slack.com/archives/C03N6PVU2EQ)
+</td>
 </tr>
 
 </tbody>
@@ -159,7 +185,6 @@ We are looking for volunteers, and we prepared a detailed and comprehensive guid
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 ## About Women Who Code
 
@@ -174,15 +199,21 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 
 ## Contributing
 
-We welcome your contributions! :two_hearts: To contribute to this repo, follow the setup instructions below
+We welcome your contributions! :two_hearts: To contribute to this repo, follow the [contributing guidelines](CONTRIBUTING.md)
 
-1. 🍴 Fork this repo  
-2. 🔨 Follow the [contributing guidelines](CONTRIBUTING.md)
-3. 🔧 Make a pull request
-4. 🎉 Get your pull request approved - success!
+## Community
 
-Or just [create an issue](https://github.com/WomenWhoCode/WWCode-London/issues) - any little bit of help counts! 😊
- <br>
+### Programs
+
+The Women Who Code London community succesfully runs multiple programs to support our members in their tech journey. Please refer to the current list of programs in our [community guide](community.md).
+
+### Special Interest Groups
+
+If you are interested in a particular area of tech, get in touch with our special interest groups, where you will meet like-minded professionals to access insights and expertise. Please refer to the details in our [community guide](community.md).
+
+### Other Volunteering Opportunities
+
+We are always looking for new volunteers. If you are interested in volunteering for the community, please refer to the available opportunities in the [community guide](community.md).
 
 ## Credits
 
