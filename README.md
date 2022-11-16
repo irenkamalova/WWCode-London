@@ -1,4 +1,4 @@
-<a href="https://www.womenwhocode.com/london"><img alt="Women Who Code London Network." align="center" src="docs/images/wwcode_london_logo.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
+<a href="https://www.womenwhocode.com/london"><img alt="Women Who Code London Network." align="center" src="docs/images/wwcode_london_logo_2022.png" width="900" ></a><br><br>&nbsp;&nbsp;&nbsp;<br>
 
 - [Women Who Code London - Network](#women-who-code-london---network)
 - [Social](#social)
